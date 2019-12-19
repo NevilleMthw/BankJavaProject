@@ -1,0 +1,7 @@
+FlowPane{
+-fx-background-image:url('pencils.jpg');
+-fx-background-repeat: stretch;
+-fx-background-size: 110% 100%;
+-fx-background-position: bottom;
+}
+
